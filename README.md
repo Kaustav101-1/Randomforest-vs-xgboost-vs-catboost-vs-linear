@@ -8,8 +8,7 @@ Four models are compared against a simple "predict the average" benchmark:
 
 **Linear Regression → Random Forest → XGBoost → CatBoost**
 
-> **Note on data:** the dataset is **simulated** to mirror the structure of real flight-wise uplift records, and it is not included in this repository. The results show that the pipeline works end to end. They are not a claim about real-world accuracy, since real uplift data will be noisier.
-
+> **Note on data:** the dataset is **simulated** to mirror the structure of real flight-wise uplift records, and it is not included in this repository. The results show that the pipeline works end to end. 
 ---
 
 ## Why this problem
